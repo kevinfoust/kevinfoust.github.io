@@ -1,0 +1,47 @@
+# Site settings
+title: Kevin Foust
+description: Visual Art, Photography
+url: "https://kdfoust.github.io"  # Change to https://kevinfoust.com when ready
+baseurl: ""
+
+# Author
+author:
+  name: Kevin Foust
+  email: kdfoust@me.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Collections for pages
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
