@@ -4,7 +4,7 @@ date: 2021-02-21 23:10:00
 status: publish
 type: post
 link: https://kevinfoust.com/2021/02/21/pensive-moment-at-sunset/
-slug: pensive-moment-at-sunset
+slug: a-return-to-film
 categories: [Olympus XA]
 tags: [analog, Black and White, film, Ilford HP5, Olympus XA]
 ---
