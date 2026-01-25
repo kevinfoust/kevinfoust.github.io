@@ -189,6 +189,42 @@ body {
   margin: 0;
 }
 
+/* Contact form */
+.contact-form {
+  max-width: 500px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 1rem;
+  font-family: inherit;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #999;
+}
+
+.contact-form button {
+  background: #333;
+  color: #fff;
+  border: none;
+  padding: 12px 30px;
+  font-size: 1rem;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.contact-form button:hover {
+  background: #000;
+}
+
 /* Footer */
 .site-footer {
   border-top: 1px solid #eee;
