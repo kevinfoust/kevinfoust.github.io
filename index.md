@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome
 
 Visual Art, Photography
 
