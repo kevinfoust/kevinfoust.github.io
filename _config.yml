@@ -1,7 +1,7 @@
 # Site settings
 title: Kevin Foust
 description: Visual Art, Photography
-url: "https://kdfoust.github.io"  # Change to https://kevinfoust.com when ready
+url: "https://kevinfoust.github.io"  # Change to https://kevinfoust.com when ready
 baseurl: ""
 
 # Author
