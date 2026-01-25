@@ -31,7 +31,7 @@ body {
 }
 
 .site-title {
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: 600;
   color: #333;
   text-decoration: none;
@@ -39,6 +39,18 @@ body {
 
 .site-title:hover {
   color: #000;
+}
+
+.site-branding {
+  display: flex;
+  flex-direction: column;
+}
+
+.site-tagline {
+  margin: 0;
+  font-size: 0.95rem;
+  color: #777;
+  font-weight: 400;
 }
 
 .site-nav a {
