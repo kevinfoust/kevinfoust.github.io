@@ -9,15 +9,24 @@ permalink: /blog/
 <ul class="posts-list">
   {% for post in site.posts %}
     <li>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}
-        {% if post.categories.size > 0 %}
-          in {{ post.categories | join: ", " }}
+      <div class="post-item">
+        {% if post.thumbnail %}
+        <a href="{{ post.url | relative_url }}" class="post-thumbnail">
+          <img src="https://images.kevinfoust.com/{{ post.thumbnail }}" loading="lazy" alt="{{ post.title }}">
+        </a>
         {% endif %}
-      </p>
-      {% if post.excerpt %}
-        <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</p>
-      {% endif %}
+        <div class="post-item-content">
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}
+            {% if post.categories.size > 0 %}
+              in {{ post.categories | join: ", " }}
+            {% endif %}
+          </p>
+          {% if post.excerpt %}
+            <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 200 }}</p>
+          {% endif %}
+        </div>
+      </div>
     </li>
   {% endfor %}
 </ul>

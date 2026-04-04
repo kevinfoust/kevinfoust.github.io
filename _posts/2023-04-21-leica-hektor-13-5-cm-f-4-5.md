@@ -2,7 +2,9 @@
 status: publish type: post link:
 https://kevinfoust.com/2023/04/21/leica-hektor-13-5-cm-f-4-5/ slug:
 leica-hektor-13-5-cm-f-4-5 categories: [Uncategorized] tags: [Blog,
-Canary Islands, Hektor 13.5cm, Long Lens, Tenerife, Travel] ---
+Canary Islands, Hektor 13.5cm, Long Lens, Tenerife, Travel]
+thumbnail: hektor-135-tenerife/L1001591.jpg
+---
 
 # Leica Hektor 13.5 cm f/4.5
 Trying out a new view...

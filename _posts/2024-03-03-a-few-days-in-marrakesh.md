@@ -7,6 +7,7 @@ link: https://kevinfoust.com/2024/03/03/a-few-days-in-marrakesh/
 slug: a-few-days-in-marrakesh
 categories: [Leica, Travel]
 tags: [Canon 28 f/2.8 LTM, Leica M10P, Marrakesh, Morroco, Travel]
+thumbnail: marrakesh/L1006899.jpg
 ---
 
 # A few days in Marrakesh
