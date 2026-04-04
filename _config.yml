@@ -14,11 +14,14 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
-# Collections for pages
+# Collections
 collections:
   pages:
     output: true
     permalink: /:title/
+  galleries:
+    output: true
+    permalink: /galleries/:title/
 
 # Defaults
 defaults:

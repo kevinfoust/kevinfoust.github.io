@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 <div class="galleries-index">
-  {% assign galleries = site.pages | where: "layout", "gallery" | sort: "title" %}
+  {% assign galleries = site.galleries | sort: "title" %}
   {% for gallery in galleries %}
   <a href="{{ gallery.url | relative_url }}" class="gallery-card">
     {% if gallery.images.size > 0 %}
