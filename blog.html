@@ -12,7 +12,7 @@ permalink: /blog/
       <div class="post-item">
         {% if post.thumbnail %}
         <a href="{{ post.url | relative_url }}" class="post-thumbnail">
-          <img src="https://images.kevinfoust.com/{{ post.thumbnail }}" loading="lazy" alt="{{ post.title }}">
+          <img src="https://images.kevinfoust.com/thumbs/{{ post.thumbnail }}" loading="lazy" alt="{{ post.title }}">
         </a>
         {% endif %}
         <div class="post-item-content">
