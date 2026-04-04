@@ -16,4 +16,24 @@ Photographing around the area, I accepted [the challenge of excluding people fro
 
 Marrakesh in eight photos.
 
-[ngg src="galleries" ids="2000000009" display="pro_horizontal_filmstrip"]
+![](https://images.kevinfoust.com/marrakesh/L1006899.jpg)
+
+![](https://images.kevinfoust.com/marrakesh/L1006933.jpg)
+
+![](https://images.kevinfoust.com/marrakesh/L1006943.jpg)
+
+![](https://images.kevinfoust.com/marrakesh/L1006971.jpg)
+
+![](https://images.kevinfoust.com/marrakesh/L1007090.jpg)
+
+![](https://images.kevinfoust.com/marrakesh/L1007091.jpg)
+
+![](https://images.kevinfoust.com/marrakesh/L1007107.jpg)
+
+![](https://images.kevinfoust.com/marrakesh/L1007174.jpg)
+
+![](https://images.kevinfoust.com/marrakesh/L1007179-2.jpg)
+
+![](https://images.kevinfoust.com/marrakesh/L1007202.jpg)
+
+![](https://images.kevinfoust.com/marrakesh/L1007222.jpg)

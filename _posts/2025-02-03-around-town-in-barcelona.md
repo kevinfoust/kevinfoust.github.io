@@ -12,4 +12,8 @@ tags: [Barcelona, Canon 28 f/2.8 LTM, Leica M10P]
 # Around Town in Barcelona
 A few little things from around Barcelona.  Mostly tourists.
 
-[ngg src="galleries" ids="2000000011" display="slideshow"]
+![](https://images.kevinfoust.com/around-bcn/L1000174.jpeg)
+
+![](https://images.kevinfoust.com/around-bcn/L1000349.jpeg)
+
+![](https://images.kevinfoust.com/around-bcn/L1003880.jpeg)

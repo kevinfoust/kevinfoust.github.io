@@ -33,4 +33,18 @@ there" that needed photographing required an adjustment.  As the days
 passed I starting finding compositions that made sense with the lens.  I
 shot wide open or f/8.
 
-[ngg src="galleries" ids="2000000005" display="pro_mosaic"]
+![](https://images.kevinfoust.com/hektor-135-tenerife/L1001591.jpg)
+
+![](https://images.kevinfoust.com/hektor-135-tenerife/L1001653-2-Pano.jpg)
+
+![](https://images.kevinfoust.com/hektor-135-tenerife/L1001961-2-Pano.jpg)
+
+![](https://images.kevinfoust.com/hektor-135-tenerife/L1001964-2-Pano.jpg)
+
+![](https://images.kevinfoust.com/hektor-135-tenerife/L1001985.jpg)
+
+![](https://images.kevinfoust.com/hektor-135-tenerife/L1002013-2-Pano.jpg)
+
+![](https://images.kevinfoust.com/hektor-135-tenerife/L1002170.jpg)
+
+![](https://images.kevinfoust.com/hektor-135-tenerife/L1002286.jpg)

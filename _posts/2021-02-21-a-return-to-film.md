@@ -24,4 +24,10 @@ Back in the 80s I had wanted an [Olympus XA](https://www.kenrockwell.com/olympus
 
 It has become one of my out and around cameras but also used with deliberation at times.  Here are a couple images from the first roll of film I've shot in 30 years.
 
-[ngg src="galleries" ids="18" display="basic_thumbnail" thumbnail_crop="0"]
+![](https://images.kevinfoust.com/olympus-xa-first/R1-08091-0004.jpg)
+
+![](https://images.kevinfoust.com/olympus-xa-first/R1-08091-0005.jpg)
+
+![](https://images.kevinfoust.com/olympus-xa-first/R1-08091-0008.jpg)
+
+![](https://images.kevinfoust.com/olympus-xa-first/R1-08091-0011.jpg)
