@@ -16,4 +16,4 @@ At first I browsed the [Nikon Nikonos](https://www.kenrockwell.com/nikon/nikonos
 
 The price was right at about 200€ so I [ordered one on ebay](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2332490.m570.l1313&_nkw=nikon+l35+aw+ad&_sacat=0). So far I've shot with Kodak ColorPlus 200. The Nikon exposed accurately out in the dry world and the flash is useful for daytime fill. Exposure seems fine so far underwater. By the way, it reads DX coding on the film cartridges so you can't forget to set the correct film speed (guilty of this at times).
 
-[![](https://kevinfoust.com/wp-content/uploads/2024/09/R1-06045-020A.jpg)](https://kevinfoust.com/wp-content/uploads/2024/09/R1-06045-020A.jpg)*Train station.  Portbou, Catalunya*
+![](https://images.kevinfoust.com/nikon-law-ad-35/R1-06045-020A.jpg)*Train station.  Portbou, Catalunya*
