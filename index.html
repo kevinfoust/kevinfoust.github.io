@@ -3,11 +3,11 @@ layout: default
 title: Home
 ---
 <div class="galleries-index">
-  {% assign galleries = site.pages | where_exp: "p", "p.layout == 'gallery'" | sort: "title" %}
+  {% assign galleries = site.pages | where: "layout", "gallery" | sort: "title" %}
   {% for gallery in galleries %}
   <a href="{{ gallery.url | relative_url }}" class="gallery-card">
     {% if gallery.images.size > 0 %}
-    <img src="https://images.kevinfoust.com/{{ gallery.images[0] }}" loading="lazy" alt="{{ gallery.title }}">
+    <img src="https://images.kevinfoust.com/{{ gallery.images.first }}" loading="lazy" alt="{{ gallery.title }}">
     {% endif %}
     <div class="gallery-card-title">{{ gallery.title }}</div>
   </a>
