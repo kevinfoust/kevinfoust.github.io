@@ -10,8 +10,6 @@ tags: [Film Photography, Reflecta RPS 10M, Scanning, SilverFast9 Ai]
 ---
 
 # When the Scanning Workflow Breaks: Troubleshooting Banding on the Reflecta RPS 10M
-## **When the Scanning Workflow Breaks: Troubleshooting Banding on the Reflecta RPS 10M**
-
 Since returning to film photography, my equipment inventory has grown significantly. For me, *film means black and white*—that’s my preference, and it’s where I feel the most control. With black and white, you can manage the entire process from exposure to development, to scanning, to editing in Lightroom or Photoshop, and finally to printing. In the business world we used to call this **vertical integration**. Everything under one roof.
 
 ### **Why Scanning Matters So Much**
