@@ -5,8 +5,6 @@ leica-hektor-13-5-cm-f-4-5 categories: [Uncategorized] tags: [Blog,
 Canary Islands, Hektor 13.5cm, Long Lens, Tenerife, Travel]
 thumbnail: hektor-135-tenerife/L1001591.jpg
 ---
-
-# Leica Hektor 13.5 cm f/4.5
 Trying out a new view...
 
 I had just picked up a Hektor 13.5 cm f/4.5 (bulit 1958).  It had been
