@@ -7,7 +7,7 @@ title: Home
   {% for gallery in galleries %}
   <a href="{{ gallery.url | relative_url }}" class="gallery-card">
     {% if gallery.images.size > 0 %}
-    <img src="https://images.kevinfoust.com/{{ gallery.images.first }}" loading="lazy" alt="{{ gallery.title }}">
+    <img src="https://images.kevinfoust.com/thumbs/{{ gallery.images.first }}" loading="lazy" alt="{{ gallery.title }}">
     {% endif %}
     <div class="gallery-card-title">{{ gallery.title }}</div>
   </a>

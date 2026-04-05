@@ -14,7 +14,7 @@ layout: default
   <div class="gallery-grid">
     {% for image in page.images %}
     <a href="https://images.kevinfoust.com/{{ image }}" class="gallery-item" target="_blank">
-      <img src="https://images.kevinfoust.com/{{ image }}" loading="lazy" alt="">
+      <img src="https://images.kevinfoust.com/thumbs/{{ image }}" loading="lazy" alt="">
     </a>
     {% endfor %}
   </div>
