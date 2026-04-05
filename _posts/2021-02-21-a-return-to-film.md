@@ -9,8 +9,6 @@ categories: [Olympus XA]
 tags: [analog, Black and White, film, Ilford HP5, Olympus XA]
 thumbnail: olympus-xa-first/R1-08091-0011.jpg
 ---
-
-# A Return to Film
 Back before digital, I didn't develop film or do my own printing. I had tried development but found an uninteresting simple process with a lot of overheard.  My favorite 35mm film was Kodachrome 64 which was only developed by Kodak so that was just fine. For more interpretive artistic work I favored SX-70 Time Zero instant film.   Again no development work for me.  K64 production ceased in 2009 and just prior Polaroid had stopped making Time-Zero. The writing was on the wall with respect to my film future. It was my signal to move on in total.
 
 I had already picked up a digital camera; a Kodak DC 290.  A lump of a camera with a 29-58mm zoom and 2 mega pixel resolution.  It took compact flash cards and AA batteries.  I used that camera like mad completely liberated from cost and hassle of film.
