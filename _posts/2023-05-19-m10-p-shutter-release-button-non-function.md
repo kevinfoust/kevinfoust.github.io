@@ -8,8 +8,6 @@ slug: m10-p-shutter-release-button-non-function
 categories: [Leica]
 tags: [Leica, Technical]
 ---
-
-# Leica M10-P Shutter Release Button non-Function
 Not long after getting my M10-P Safari, I found that the shutter release occasionally would fail to actuate the shutter.  This mostly happened when shooting in the vertical orientation, however, it eventually spread to the horizontal orientation as well.
 
 After a little fiddling around I realised that the shutter release button was loose!  Simply tightening the collar that surrounds the button resolved the problem.  The camera fires every time now.
