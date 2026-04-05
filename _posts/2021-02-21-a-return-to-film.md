@@ -7,7 +7,7 @@ link: https://kevinfoust.com/2021/02/21/pensive-moment-at-sunset/
 slug: a-return-to-film
 categories: [Olympus XA]
 tags: [analog, Black and White, film, Ilford HP5, Olympus XA]
-thumbnail: olympus-xa-first/R1-08091-0004.jpg
+thumbnail: olympus-xa-first/R1-08091-0011.jpg
 ---
 
 # A Return to Film
